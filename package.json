@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/jr10/node-mtasa-sdk/issues"
   },
-  "homepage": "https://github.com/jr10/node-mtasa-sdk#readme"
+  "homepage": "https://github.com/jr10/node-mtasa-sdk#readme",
+  "dependencies": {
+    "request": "^2.62.0"
+  }
 }

@@ -1,4 +1,4 @@
-# mtasa-sdk v0.1.0
+# mtasa-sdk v1.0.0
 
 A module to facilitate calling http exported functions from MTA:SA servers.
 

@@ -1,5 +1,9 @@
 # mtasa-sdk v1.0.0
 
+[![npm](https://nodei.co/npm/mtasa-sdk.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mtasa-sdk)
+
+[![npm version](https://badge.fury.io/js/mtasa-sdk.png)](http://badge.fury.io/js/mtasa-sdk)
+
 A module to facilitate calling http exported functions from MTA:SA servers.
 
 ## Installation

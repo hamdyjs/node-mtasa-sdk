@@ -1,0 +1,32 @@
+{
+  "name": "mtasa-sdk",
+  "version": "1.0.0",
+  "description": "Node.js SDK for Multi Theft Auto: San Andreas",
+  "main": "mta.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jr10/node-mtasa-sdk.git"
+  },
+  "keywords": [
+    "mta",
+    "sa",
+    "mtasa",
+    "san",
+    "andreas",
+    "multi",
+    "theft",
+    "auto",
+    "sdk",
+    "gta",
+    "gtasa"
+  ],
+  "author": "JR10 <hamdyjs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jr10/node-mtasa-sdk/issues"
+  },
+  "homepage": "https://github.com/jr10/node-mtasa-sdk#readme",
+  "dependencies": {
+    "request": "^2.62.0"
+  }
+}
